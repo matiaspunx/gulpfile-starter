@@ -1,0 +1,14 @@
+{
+  "name": "gulpfile-starter",
+  "version": "1.0.0",
+  "description": "Mi starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "matias punx",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
